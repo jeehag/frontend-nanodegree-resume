@@ -2,10 +2,10 @@ var bio = {
 	"name" : "River moon",
 	"role" : "CEO",
 	"Contacts": {
-		"mobile": "010-8839-8032",
+		"mobile": "010-0000-8032",
 		"email": "rivermoon85@gmail.com",
-		"github": "jeehag",
-		"twitter": "@jeehag",
+		"github": "hkmoon",
+		"twitter": "@hkmoon",
 		"location": "Seoul"
 	},
 	"welcomeMessage": "Welcome to the genius world",
